@@ -1,0 +1,35 @@
+{
+  "currentFloor": 15,
+  "lifts": [
+    {
+      "id": 4,
+      "floor": 17,
+      "available": true
+    },
+    {
+      "id": 2,
+      "floor": 12,
+      "available": true
+    },
+    {
+      "id": 5,
+      "floor": 8,
+      "available": true
+    },
+    {
+      "id": 1,
+      "floor": 2,
+      "available": true
+    },
+    {
+      "id": 3,
+      "floor": 18,
+      "available": false
+    }
+  ],
+  "nearestLift": {
+    "id": 4,
+    "floor": 17,
+    "available": true
+  }
+}
